@@ -844,6 +844,249 @@ section{
    margin-top: 2rem;
 }
 
+/*page beach start*/
+.beach{
+   padding:0;
+}
+
+.beach .slide{
+   text-align: center;
+   padding:2rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-size: cover !important;
+   background-position: center !important;
+   min-height: 60rem;
+}
+
+.beach .slide .content{
+   width: 85rem;
+   display: none;
+}
+
+.beach .swiper-slide-active .content{
+   display: inline-block;
+}
+
+.beach .slide .content span{
+   display: block;
+   font-size: 2.2rem;
+   color: var(--light-white);
+   padding-bottom: 1rem;
+   animation:fadeIn .2s linear backwards .2s;
+}
+
+.beach .slide .content h3{
+   font-size: 6vw;
+   color:var(--white);
+   text-transform: uppercase;
+   line-height: 1;
+   text-shadow: var(--text-shadow);
+   padding:1rem 0;
+   animation:fadeIn .2s linear backwards .4s;
+}
+
+.beach .slide .content .btn{
+   animation:fadeIn .2s linear backwards .6s;
+}
+
+.beach .swiper-button-next,
+.beach .swiper-button-prev{
+   top:inherit;
+   left: inherit;
+   bottom: 0;
+   right: 0;
+   height: 7rem;
+   width: 7rem;
+   background: var(--white);
+   color:var(--black);
+}
+
+.beach .swiper-button-next:hover,
+.beach .swiper-button-prev:hover{
+   background: var(--main-color);
+   color:var(--white);
+}
+
+.beach .swiper-button-next::after,
+.beach .swiper-button-prev::after{
+   font-size: 2rem;
+}
+
+.beach .swiper-button-prev{
+   right: 7rem;
+}
+
+.beach-packages{
+   background: var(--light-bg);
+}
+
+.beach-packages .box-container{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+   margin-top: 2rem;
+   gap: 2rem;
+}
+
+.beach-packages .box-container .box{
+   border:var(--border);
+   box-shadow: var(--box-shadow);
+   background: var(--white);
+}
+
+.beach-packages .box-container .box:hover .image img{
+   transform: scale(1.1);
+}
+
+.beach-packages .box-container .box .image{
+   height: 25rem;
+   overflow: hidden;
+}
+
+.beach-packages .box-container .box .image img{
+   height: 100%;
+   width: 100%;
+   object-fit: cover;
+   transition: .2s linear;
+}
+
+.beach-packages .box-container .box .content{
+   padding:2rem;
+   text-align: center;
+}
+
+.beach-packages .box-container .box .content h3{
+   font-size: 2.5rem;
+   color:var(--black);
+}
+
+.beach-packages .box-container .box .content p{
+   font-size: 1.2rem;
+   color:var(--light-black);
+   line-height: 2;
+   padding:1rem 0;
+}
+
+.beach-packages .load-more{
+   text-align: center;
+   margin-top: 2rem;
+}
+
+.beach-offer{
+   text-align: center;
+}
+
+.beach-offer .content{
+   max-width:70rem;
+   margin:0 auto;
+}
+
+.beach-offer .content h3{
+   font-size: 3.5rem;
+   text-transform: uppercase;
+   color:var(--black);
+}
+
+.beach-offer .content span{
+   font-size: 1.5rem;
+   color:var(--light-black);
+}
+
+.beach-offer .content p{
+   font-size: 1.5rem;
+   color:var(--light-black);
+   line-height: 2;
+   padding:1rem 0;
+}
+/* page beach end */
+
+/* page nusa penida start */
+
+.nusapenida{
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+   gap:3rem;
+}
+
+
+.nusapenida .image{
+   flex:1 1 41rem;
+}
+
+.nusapenida .image img{
+   width: 100%;
+}
+
+.nusapenida .content{
+   flex:1 1 41rem;
+   text-align: justify;
+}
+
+.nusapenida .content h3{
+   font-size: 3rem;
+   color:var(--black);
+}
+
+.nusapenida .content p{
+   font-size: 1.5rem;
+   color:var(--light-black);
+   line-height: 2;
+   padding:1rem 0;
+}
+
+.nusapenida .content .icons-container{
+   margin-top: 2rem;
+   display: flex;
+   flex-wrap: wrap;
+   gap:1.5rem;
+   align-items: flex-end;
+}
+
+.nusapenida .content .icons-container .icons{
+   background: var(--light-bg);
+   padding:2rem;
+   flex:1 1 16rem;
+}
+
+.nusapenida .content .icons-container .icons i{
+   font-size: 4rem;
+   margin-bottom: 2rem;
+   color:var(--main-color);
+}
+
+.nusapenida .content .icons-container .icons span{
+   font-size: 1.5rem;
+   color:var(--light-black);
+   display:block;
+}
+
+.nusapenida-book {
+   text-align: center;
+}
+
+.nusapenida-book .content p{
+   font-size: 1.5rem;
+   padding:1rem 0;
+   line-height: 2;
+   color:var(--black);
+}
+
+.nusapenida-book .box-container{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+   gap: 2rem;
+}
+
+.nusapenida-book .box-container .box .content{
+   padding:2rem;
+   text-align: center;
+}
+
+
+/* page nusa penida end */
+
 .detailpacket-about{
    display: flex;
    align-items: center;
@@ -1130,3 +1373,4 @@ flex-direction: column;
    }
 
 }
+
