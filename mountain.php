@@ -22,13 +22,13 @@
 
 <section class="header">
 
-   <a href="home.html" class="logo">travel.</a>
+   <a href="home.php" class="logo">travel.</a>
 
    <nav class="navbar">
-      <a href="home.html">home</a>
-      <a href="about.html">about</a>
-      <a href="package.html">package</a>
-      <a href="book.html">book</a>
+      <a href="home.php">home</a>
+      <a href="about.php">about</a>
+      <a href="package.php">package</a>
+      <a href="book.php">book</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -110,7 +110,7 @@
          <div class="content">
             <h3>Bromo Mountain</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
-            <a href="mount1.html" class="btn">read more</a>
+            <a href="mount1.php" class="btn">read more</a>
          </div>
       </div>
 
@@ -138,7 +138,7 @@
 
    </div>
 
-   <div class="load-more"> <a href="package.html" class="btn">load more</a> </div>
+   <div class="load-more"> <a href="package.php" class="btn">load more</a> </div>
 
 </section>
 
@@ -152,17 +152,17 @@
 
       <div class="box">
          <h3>quick links</h3>
-         <a href="home.html"> <i class="fas fa-angle-right"></i> home</a>
-         <a href="about.html"> <i class="fas fa-angle-right"></i> about</a>
-         <a href="package.html"> <i class="fas fa-angle-right"></i> package</a>
-         <a href="book.html"> <i class="fas fa-angle-right"></i> book</a>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
       </div>
 
       <div class="box">
          <h3>extra links</h3>
-         <a href="faq.html"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="privacy.html"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="term.html"> <i class="fas fa-angle-right"></i> terms of use</a>
+         <a href="faq.php"> <i class="fas fa-angle-right"></i> ask questions</a>
+         <a href="privacy.php"> <i class="fas fa-angle-right"></i> privacy policy</a>
+         <a href="term.php"> <i class="fas fa-angle-right"></i> terms of use</a>
       </div>
 
       <div class="box">
