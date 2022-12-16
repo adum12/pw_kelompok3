@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>book</title>
+   <title>historical & culture</title>
 
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -35,81 +35,18 @@
 
 </section>
 
-<!-- header section ends -->
+<section class="about">
 
-<div class="heading" style="background:url(images/header-bg-3.png) no-repeat">
-   <h1>book now</h1>
-</div>
+   <div class="image">
+      <img src="images/imgh-2.jpg" alt="">
+   </div>
 
-<!-- booking section starts  -->
-
-<section class="booking">
-
-   <h1 class="heading-title">book your trip!</h1>
-
-   <form action="book_form.php" method="post" class="book-form">
-
-      <div class="flex">
-         <div class="inputBox">
-            <span>name :</span>
-            <input type="text" placeholder="enter your name" name="name">
-         </div>
-         <div class="inputBox">
-            <span>email :</span>
-            <input type="email" placeholder="enter your email" name="email">
-         </div>
-         <div class="inputBox">
-            <span>phone :</span>
-            <input type="number" placeholder="enter your number" name="phone">
-         </div>
-         <div class="inputBox">
-            <span>address :</span>
-            <input type="text" placeholder="enter your address" name="address">
-         </div>
-         <div class="inputBox">
-            <span>Choose Packet :</span>
-            <input type="text" placeholder="place you want to visit" name="location">
-
-         </div>
-         <div class="inputBox">
-            <span>how many :</span>
-            <input type="number" placeholder="number of guests" name="guests">
-         </div>
-         <div class="inputBox">
-            <span>arrivals :</span>
-            <input type="date" name="arrivals">
-         </div>
-         <div class="inputBox">
-            <span>leaving :</span>
-            <input type="date" name="leaving">
-         </div>
-      </div>
-
-      <input type="submit" value="submit" class="btn" name="send">
-
-   </form>
+   <div class="content">
+      <h3>Kota Tua Jakarta</h3>
+      <p>Wisata Kota Tua Jakarta yang juga dikenal dengan sebutan Batavia Lama (Oud Batavia) ini adalah sebuah wilayah kecil di Jakarta, Indonesia. Wilayah khusus ini memiliki luas 1,3 kilometer persegi yang melintasi Jakarta Utara dan Jakarta Barat. Kawasan ini juga dijuluki dengan "Permata Asia" dan "Ratu dari Timur" pada abad ke-16 oleh pelayar Eropa. Jakarta Lama dianggap sebagai pusat perdagangan untuk benua Asia, karena lokasinya yang strategis dan memiliki sumber daya yang melimpah pada saat itu. Di kawasan ini terdapat ragam bangunan tua yang masih terawat yang masing-masing memiliki sejarah. Ini tentunya dapat memberi edukasi bagi setiap orang yang mengunjunginya. Destinasi wisata ini memberikan pengalaman yang berbeda karena lekat dengan suasana yang kental dengan gaya Eropa.</p>
+   </div>
 
 </section>
-
-<!-- booking section ends -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- footer section starts  -->
 
 <section class="footer">
 
@@ -134,8 +71,8 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> kelompok3@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Gowa, Indonesia - 90700 </a>
       </div>
 
       <div class="box">
@@ -147,22 +84,14 @@
       </div>
 
    </div>
+ 
+    <div class="credit"> created by <span>KELOMPOK 3</span></div>
+ 
+ </section>
 
-   <div class="credit"> created by <span>KELOMPOK 3</span></div>
-
-</section>
-
-<!-- footer section ends -->
-
-
-
-
-
-
-
-
-
-<!-- swiper js link  -->
+ <!-- footer section ends -->
+ 
+  <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 
 <!-- custom js file link  -->

@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>historical & culture</title>
+   <title>historical & Culture</title>
 
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -35,9 +35,9 @@
 
 </section>
 
-<!-- header section ends  -->
+<!-- header section ends -->
 
-<!-- historical section starts  -->
+<!-- home section starts  -->
 
 <section class="historical">
 
@@ -48,14 +48,14 @@
          <div class="swiper-slide slide" style="background:url(images/imgh-1.jpg) no-repeat">
             <div class="content">
                <span>explore, discover, travel</span>
-               <h3>travel around Indonesia</h3>
+               <h3>travel arround Indonesia</h3>
             </div>
          </div>
 
-         <div class="swiper-slide slide" style="background:url(images/imgh-2.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images/imgc-1.jpg) no-repeat">
             <div class="content">
                <span>explore, discover, travel</span>
-               <h3>find the coolest mountain that you seek</h3>
+               <h3>discover the new places</h3>
             </div>
          </div>
 
@@ -75,58 +75,103 @@
 
 </section>
 
-<!-- historical section ends -->
-
-<!-- historical-pack section ends -->
+<!-- home section ends -->
+<!-- home packages section starts  -->
 
 <section class="historical-packages">
 
-    <h1 class="heading-title"> historical & Culture Packages </h1>
- 
-    <div class="box-container">
- 
-       <div class="box">
-          <div class="image">
-             <img src="images/imgh-1.jpg" alt="">
-          </div>
-          <div class="content">
-             <h3>Tanah Lot</h3>
-             <p>adalah salah satu Pura (Tempat Ibadah Umat Hindu) yang sangat disucikan di Bali, Indonesia. </p>
-             <a href="book.php" class="btn">book now</a>
-          </div>
+   <h1 class="heading-title"> historical & culture packages </h1>
+
+   <div class="box-container">
+
+    <div class="box">
+        <div class="image">
+           <img src="images/imgh-1.jpg" alt="">
+        </div>
+        <div class="content">
+           <h3>Tanah Lot</h3>
+           <span>
+               <svg width="14" height="14" class="ywnoU" viewBox="0 0 32 32" version="1.1" aria-hidden="false"><desc lang="en-US">A map marker</desc><path d="M16 2.66669C9.99998 2.66669 5.33331 7.06669 5.33331 12.6667C5.33331 19.8667 12.9333 27.0667 15.3333 29.0667C15.7333 29.4267 16.2666 29.4267 16.6666 29.0667C19.0666 27.0667 26.6666 19.8667 26.6666 12.6667C26.6666 7.06669 22 2.66669 16 2.66669ZM16 18.6667C13.0666 18.6667 10.6666 16.2667 10.6666 13.3334C10.6666 10.4 13.0666 8.00002 16 8.00002C18.9333 8.00002 21.3333 10.4 21.3333 13.3334C21.3333 16.2667 18.9333 18.6667 16 18.6667Z"></path></svg>
+               <span class="alamat">Beraban, Kediri, Tabanan, Bali, Indonesia</span>
+           </span>
+           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+           <a href="tanahlot.php" class="btn">read more</a>
+        </div>
+     </div>
+
+    <div class="box">
+         <div class="image">
+            <img src="images/imgh-2.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Kota Tua Jakarta</h3>
+            <span>
+                <svg width="14" height="14" class="ywnoU" viewBox="0 0 32 32" version="1.1" aria-hidden="false"><desc lang="en-US">A map marker</desc><path d="M16 2.66669C9.99998 2.66669 5.33331 7.06669 5.33331 12.6667C5.33331 19.8667 12.9333 27.0667 15.3333 29.0667C15.7333 29.4267 16.2666 29.4267 16.6666 29.0667C19.0666 27.0667 26.6666 19.8667 26.6666 12.6667C26.6666 7.06669 22 2.66669 16 2.66669ZM16 18.6667C13.0666 18.6667 10.6666 16.2667 10.6666 13.3334C10.6666 10.4 13.0666 8.00002 16 8.00002C18.9333 8.00002 21.3333 10.4 21.3333 13.3334C21.3333 16.2667 18.9333 18.6667 16 18.6667Z"></path></svg>
+                <span class="alamat">Kota Tua, Mangga Besar, Taman Sari, Jakarta Barat, Indonesia</span>
+            </span>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+            <a href="kotatua.php" class="btn">read more</a>
+         </div>
+      </div>
+
+
+   </div>
+
+   <div class="box-container">
+
+    <div class="box">
+       <div class="image">
+          <img src="images/imgh-3.jpg" alt="">
        </div>
- 
-       <div class="box">
-          <div class="image">
-             <img src="images/imgh-2.jpg" alt="">
-          </div>
-          <div class="content">
-             <h3>Kota Tua Jakarta</h3>
-             <p> juga dikenal dengan sebutan Batavia Lama (Oud Batavia), adalah sebuah wilayah kecil di Jakarta.</p>
-             <a href="book.php" class="btn">book now</a>
-          </div>
+       <div class="content">
+          <h3>Candi Borobudur</h3>
+          <span>
+            <svg width="14" height="14" class="ywnoU" viewBox="0 0 32 32" version="1.1" aria-hidden="false"><desc lang="en-US">A map marker</desc><path d="M16 2.66669C9.99998 2.66669 5.33331 7.06669 5.33331 12.6667C5.33331 19.8667 12.9333 27.0667 15.3333 29.0667C15.7333 29.4267 16.2666 29.4267 16.6666 29.0667C19.0666 27.0667 26.6666 19.8667 26.6666 12.6667C26.6666 7.06669 22 2.66669 16 2.66669ZM16 18.6667C13.0666 18.6667 10.6666 16.2667 10.6666 13.3334C10.6666 10.4 13.0666 8.00002 16 8.00002C18.9333 8.00002 21.3333 10.4 21.3333 13.3334C21.3333 16.2667 18.9333 18.6667 16 18.6667Z"></path></svg>
+            <span class="alamat">Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Kabupaten Magelang, Jawa Tengah, Indonesia</span>
+          </span>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+          <a href="book.php" class="btn">read more</a>
        </div>
-       
-       <div class="box">
-          <div class="image">
-             <img src="images/imgh-3.jpg" alt="">
-          </div>
-          <div class="content">
-             <h3>Candi Borobudur</h3>
-             <p>Dibangun di era Raja Samaratungga dari Dinasti Syailendra pada tahun 825 M. yang terdiri dari 10 tingkat. </p>
-             <a href="book.php" class="btn">book now</a>
-          </div>
+    </div>
+    
+    <div class="box">
+       <div class="image">
+          <img src="images/imgc-1.jpg" alt="">
        </div>
- 
+       <div class="content">
+          <h3>Garuda Wisnu Kencana</h3>
+          <span>
+            <svg width="14" height="14" class="ywnoU" viewBox="0 0 32 32" version="1.1" aria-hidden="false"><desc lang="en-US">A map marker</desc><path d="M16 2.66669C9.99998 2.66669 5.33331 7.06669 5.33331 12.6667C5.33331 19.8667 12.9333 27.0667 15.3333 29.0667C15.7333 29.4267 16.2666 29.4267 16.6666 29.0667C19.0666 27.0667 26.6666 19.8667 26.6666 12.6667C26.6666 7.06669 22 2.66669 16 2.66669ZM16 18.6667C13.0666 18.6667 10.6666 16.2667 10.6666 13.3334C10.6666 10.4 13.0666 8.00002 16 8.00002C18.9333 8.00002 21.3333 10.4 21.3333 13.3334C21.3333 16.2667 18.9333 18.6667 16 18.6667Z"></path></svg>
+            <span class="alamat">Jl. Raya Uluwatu, Ungasan, Kec. Kuta Selatan, Kabupaten Badung, Bali, Indonesia</span>
+          </span>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+          <p></p>
+          <a href="book.php" class="btn">read more</a>
+       </div>
     </div>
 
-    <div class="load-more"> <a href="package.php" class="btn">load more</a> </div>
- 
- </section>
+ </div>
 
-<!-- historical-pack section ends -->
+</section>
 
-<!-- footer section starts -->
+<!-- home packages section ends -->
+
+<!-- home offer section starts  -->
+
+<section class="historical-offer">
+   <div class="content">
+      <h3>upto 50% off</h3>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure tempora assumenda, debitis aliquid nesciunt maiores quas! Magni cumque quaerat saepe!</p>
+      <a href="book.php" class="btn">book now</a>
+   </div>
+</section>
+
+<!-- home offer section ends -->
+
+
+
+
+<!-- footer section starts  -->
 
 <section class="footer">
 
@@ -142,17 +187,18 @@
 
       <div class="box">
          <h3>extra links</h3>
-         <a href="faq.php"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="privacy.php"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="term.php"> <i class="fas fa-angle-right"></i> terms of use</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
       </div>
 
       <div class="box">
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> kelompok3@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> Gowa, Indonesia - 90700 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
       </div>
 
       <div class="box">
@@ -164,14 +210,14 @@
       </div>
 
    </div>
- 
-    <div class="credit"> created by <span>KELOMPOK 3</span></div>
- 
- </section>
 
- <!-- footer section ends -->
- 
-  <!-- swiper js link  -->
+   <div class="credit"> created by <span>KELOMPOK 3</span></div>
+
+</section>
+
+<!-- footer section ends -->
+
+<!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 
 <!-- custom js file link  -->
