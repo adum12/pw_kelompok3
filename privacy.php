@@ -71,9 +71,6 @@
 
 </section> 
 
-<!-- privacy section ends -->
-
-
 <!-- footer section starts  -->
 
 <section class="footer">
@@ -89,11 +86,11 @@
       </div>
 
       <div class="box">
-        <h3>extra links</h3>
-        <a href="faq.php"> <i class="fas fa-angle-right"></i> ask questions</a>
-        <a href="privacy.php"> <i class="fas fa-angle-right"></i> privacy policy</a>
-        <a href="term.php"> <i class="fas fa-angle-right"></i> terms of use</a>
-     </div>
+         <h3>extra links</h3>
+         <a href="faq.php"> <i class="fas fa-angle-right"></i> ask questions</a>
+         <a href="privacy.php"> <i class="fas fa-angle-right"></i> privacy policy</a>
+         <a href="term.php"> <i class="fas fa-angle-right"></i> terms of use</a>
+      </div>
 
       <div class="box">
          <h3>contact info</h3>

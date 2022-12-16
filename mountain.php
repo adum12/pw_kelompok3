@@ -45,55 +45,20 @@
 
       <div class="swiper-wrapper">
 
-         <div class="swiper-slide slide" style="background:url(images/package-bromo.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images/Merapi-slide-1.jpg) no-repeat">
             <div class="content">
                <span>explore, discover, travel</span>
-               <h3>travel around Indonesia</h3>
-            </div>
-         </div>
-
-         <div class="swiper-slide slide" style="background:url(images/package-bromoHill-1.jpg) no-repeat">
-            <div class="content">
-               <span>explore, discover, travel</span>
-               <h3>find the coolest mountain that you seek</h3>
-            </div>
-         </div>
-
-         <div class="swiper-slide slide" style="background:url(images/package-bromoCrate-2.jpg) no-repeat">
-            <div class="content">
-               <span>explore, discover, travel</span>
-               <h3>make your tour worthwhile</h3>
+               <h3>mountain</h3>
             </div>
          </div>
          
       </div>
-
-      <div class="swiper-button-next"></div>
-      <div class="swiper-button-prev"></div>
-
    </div>
 
 </section>
 
-<!-- mountain section ends -->
+<!-- home section ends -->
 
-<!-- mountain about section starts  -->
-
-<section class="mountain-about">
-
-   <div class="image">
-      <img src="images/about-gunungPrau.jpg" alt="">
-   </div>
-
-   <div class="content">
-      <h3>Mountain</h3>
-      <p>Mountain are full of beautiful creature and lovely nature view</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
-   </div>
-
-</section>
-
-<!-- mountain about section ends -->
 
 <!-- home packages section starts  -->
 
@@ -103,46 +68,92 @@
 
    <div class="box-container">
 
-      <div class="box">
-         <div class="image">
-            <img src="images/package-bromo.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Bromo Mountain</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
-            <a href="mount1.php" class="btn">read more</a>
-         </div>
-      </div>
+    <div class="box">
+        <div class="image">
+           <img src="images/package-bromo.jpg" alt="">
+        </div>
+        <div class="content">
+           <h3>Bromo Mountain</h3>
+           <span>
+               <svg width="14" height="14" class="ywnoU" viewBox="0 0 32 32" version="1.1" aria-hidden="false"><desc lang="en-US">A map marker</desc><path d="M16 2.66669C9.99998 2.66669 5.33331 7.06669 5.33331 12.6667C5.33331 19.8667 12.9333 27.0667 15.3333 29.0667C15.7333 29.4267 16.2666 29.4267 16.6666 29.0667C19.0666 27.0667 26.6666 19.8667 26.6666 12.6667C26.6666 7.06669 22 2.66669 16 2.66669ZM16 18.6667C13.0666 18.6667 10.6666 16.2667 10.6666 13.3334C10.6666 10.4 13.0666 8.00002 16 8.00002C18.9333 8.00002 21.3333 10.4 21.3333 13.3334C21.3333 16.2667 18.9333 18.6667 16 18.6667Z"></path></svg>
+               <span class="alamat">Indonesia</span>
+           </span>
+           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+           <a href="mount1.php" class="btn">read more</a>
+        </div>
+     </div>
 
-      <div class="box">
+    <div class="box">
          <div class="image">
             <img src="images/package-tangkuban.jpg" alt="">
          </div>
          <div class="content">
             <h3>Tangkuban Perahu</h3>
+            <span>
+                <svg width="14" height="14" class="ywnoU" viewBox="0 0 32 32" version="1.1" aria-hidden="false"><desc lang="en-US">A map marker</desc><path d="M16 2.66669C9.99998 2.66669 5.33331 7.06669 5.33331 12.6667C5.33331 19.8667 12.9333 27.0667 15.3333 29.0667C15.7333 29.4267 16.2666 29.4267 16.6666 29.0667C19.0666 27.0667 26.6666 19.8667 26.6666 12.6667C26.6666 7.06669 22 2.66669 16 2.66669ZM16 18.6667C13.0666 18.6667 10.6666 16.2667 10.6666 13.3334C10.6666 10.4 13.0666 8.00002 16 8.00002C18.9333 8.00002 21.3333 10.4 21.3333 13.3334C21.3333 16.2667 18.9333 18.6667 16 18.6667Z"></path></svg>
+                <span class="alamat">Indonesia</span>
+            </span>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
             <a href="#" class="btn">read more</a>
          </div>
       </div>
-      
-      <div class="box">
-         <div class="image">
-            <img src="images/package-rinjani.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Rinjani Mountain</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
-            <a href="#" class="btn">read more</a>
-         </div>
-      </div>
+
 
    </div>
 
-   <div class="load-more"> <a href="package.php" class="btn">load more</a> </div>
+   <div class="box-container">
+
+    <div class="box">
+       <div class="image">
+          <img src="images/package-rinjani.jpg" alt="">
+       </div>
+       <div class="content">
+          <h3>Rinjani Mountain</h3>
+          <span>
+            <svg width="14" height="14" class="ywnoU" viewBox="0 0 32 32" version="1.1" aria-hidden="false"><desc lang="en-US">A map marker</desc><path d="M16 2.66669C9.99998 2.66669 5.33331 7.06669 5.33331 12.6667C5.33331 19.8667 12.9333 27.0667 15.3333 29.0667C15.7333 29.4267 16.2666 29.4267 16.6666 29.0667C19.0666 27.0667 26.6666 19.8667 26.6666 12.6667C26.6666 7.06669 22 2.66669 16 2.66669ZM16 18.6667C13.0666 18.6667 10.6666 16.2667 10.6666 13.3334C10.6666 10.4 13.0666 8.00002 16 8.00002C18.9333 8.00002 21.3333 10.4 21.3333 13.3334C21.3333 16.2667 18.9333 18.6667 16 18.6667Z"></path></svg>
+            <span class="alamat">Indonesia</span>
+          </span>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+          <a href="#" class="btn">read more</a>
+       </div>
+    </div>
+    
+    <div class="box">
+       <div class="image">
+          <img src="images/Merapi-slide-1.jpg" alt="">
+       </div>
+       <div class="content">
+          <h3>Merapi Mountain</h3>
+          <span>
+            <svg width="14" height="14" class="ywnoU" viewBox="0 0 32 32" version="1.1" aria-hidden="false"><desc lang="en-US">A map marker</desc><path d="M16 2.66669C9.99998 2.66669 5.33331 7.06669 5.33331 12.6667C5.33331 19.8667 12.9333 27.0667 15.3333 29.0667C15.7333 29.4267 16.2666 29.4267 16.6666 29.0667C19.0666 27.0667 26.6666 19.8667 26.6666 12.6667C26.6666 7.06669 22 2.66669 16 2.66669ZM16 18.6667C13.0666 18.6667 10.6666 16.2667 10.6666 13.3334C10.6666 10.4 13.0666 8.00002 16 8.00002C18.9333 8.00002 21.3333 10.4 21.3333 13.3334C21.3333 16.2667 18.9333 18.6667 16 18.6667Z"></path></svg>
+            <span class="alamat">Indonesia</span>
+          </span>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+          <p></p>
+          <a href="#" class="btn">reed more</a>
+       </div>
+    </div>
+
+ </div>
 
 </section>
 
-<!-- mountain packages section ends -->
+<!-- home packages section ends -->
+
+<!-- home offer section starts  -->
+
+<section class="mountain-offer">
+   <div class="content">
+      <h3>upto 50% off</h3>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure tempora assumenda, debitis aliquid nesciunt maiores quas! Magni cumque quaerat saepe!</p>
+      <a href="book.php" class="btn">book now</a>
+   </div>
+</section>
+
+<!-- home offer section ends -->
+
+
+
 
 <!-- footer section starts  -->
 
@@ -160,17 +171,18 @@
 
       <div class="box">
          <h3>extra links</h3>
-         <a href="faq.php"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="privacy.php"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="term.php"> <i class="fas fa-angle-right"></i> terms of use</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
+         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
       </div>
 
       <div class="box">
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> kelompok3@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> Gowa, Indonesia - 90700 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
       </div>
 
       <div class="box">

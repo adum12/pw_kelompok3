@@ -134,8 +134,8 @@
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> kelompok3@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Gowa, Indonesia - 90700 </a>
       </div>
 
       <div class="box">
