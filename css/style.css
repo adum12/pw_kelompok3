@@ -613,54 +613,22 @@ section{
    right: 7rem;
 }
 
-.mountain-about{
-   display: flex;
-   align-items: center;
-   flex-wrap: wrap;
+.mountain .heading .content span{
+   display: block;
+   font-size: 2.2rem;
+   color: var(--light-white);
+   padding-bottom: 1rem;
+   animation:fadeIn .2s linear backwards .2s;
 }
 
-.mountain-about .image{
-   flex:1 1 41rem;
-}
-
-.mountain-about .image img{
-   width: 100%;
-}
-
-.mountain-about .content{
-   flex:1 1 41rem;
-   padding:3rem;
-   background: var(--light-bg);
-}
-
-.mountain-about .content h3{
-   font-size: 3rem;
-   color:var(--black);
-}
-
-.mountain-about .content p{
-   font-size: 1.5rem;
+.mountain .heading .content h3{ 
+   font-size: 6vw;
+   color:var(--white);
+   text-transform: uppercase;
+   line-height: 1;
+   text-shadow: var(--text-shadow);
    padding:1rem 0;
-   line-height: 2;
-   color:var(--black);
-}
-
-.mountain-book .content p{
-   font-size: 1.5rem;
-   padding:1rem 0;
-   line-height: 2;
-   color:var(--black);
-}
-
-.mountain-book .box-container{
-   display: grid;
-   grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-   gap: 2rem;
-}
-
-.mountain-book .box-container .box .content{
-   padding:2rem;
-   text-align: center;
+   animation:fadeIn .2s linear backwards .4s;
 }
 
 .mountain-packages{
@@ -671,10 +639,10 @@ section{
    display: grid;
    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
    gap: 2rem;
+   padding-bottom: 20px;
 }
 
 .mountain-packages .box-container .box{
-   border:var(--border);
    box-shadow: var(--box-shadow);
    background: var(--white);
 }
@@ -715,6 +683,72 @@ section{
 .mountain-packages .load-more{
    text-align: center;
    margin-top: 2rem;
+}
+
+.mountain-offer{
+   text-align: center;
+}
+
+.mountain-offer .content{
+   max-width:70rem;
+   margin:0 auto;
+}
+
+.mountain-offer .content h3{
+   font-size: 3.5rem;
+   text-transform: uppercase;
+   color:var(--black);
+}
+
+.mountain-offer .content p{
+   font-size: 1.5rem;
+   color:var(--light-black);
+   line-height: 2;
+   padding:1rem 0;
+}
+
+.mount1-about{
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+.mount1-about .image{
+   flex: content;
+   padding-bottom: 20px;
+   padding-top: 20px;
+}
+
+.mount1-about .image img{
+   width: 100%;
+}
+
+.mount1-about .content{
+   flex:1 1 41rem;
+   padding:3rem;
+   background: var(--light-bg);
+   padding-bottom: 20px;
+}
+
+.mount1-about .content h3{
+   font-size: 3rem;
+   color:var(--black);
+}
+
+.mount1-about .content p{
+   font-size: 1.5rem;
+   padding:1rem 0;
+   line-height: 2;
+   color:var(--black);
+}
+
+.mount1-offer{
+   text-align: center;
+}
+
+.mount1-offer .content{
+   max-width:70rem;
+   margin:0 auto;
 }
 
 .historical-packages{

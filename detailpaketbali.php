@@ -23,13 +23,13 @@
     
     <section class="header">
     
-       <a href="home.html" class="logo">travel.</a>
+       <a href="home.php" class="logo">travel.</a>
     
        <nav class="navbar">
-          <a href="home.html">home</a>
-          <a href="about.html">about</a>
-          <a href="package.html">package</a>
-          <a href="book.html">book</a>
+          <a href="home.php">home</a>
+          <a href="about.php">about</a>
+          <a href="package.php">package</a>
+          <a href="book.php">book</a>
        </nav>
     
        <div id="menu-btn" class="fas fa-bars"></div>
@@ -113,47 +113,50 @@
      <div class="load-more"> <a href="book_form.php" class="btn">Book Now</a> </div>
      </section>
 
+<!-- footer section starts  -->
+
 <section class="footer">
 
-    <div class="box-container">
- 
-       <div class="box">
-          <h3>quick links</h3>
-          <a href="home.html"> <i class="fas fa-angle-right"></i> home</a>
-          <a href="about.html"> <i class="fas fa-angle-right"></i> about</a>
-          <a href="package.html"> <i class="fas fa-angle-right"></i> package</a>
-          <a href="book.html"> <i class="fas fa-angle-right"></i> book</a>
-       </div>
- 
-       <div class="box">
-          <h3>extra links</h3>
-          <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-          <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
-          <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-          <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
-       </div>
- 
-       <div class="box">
-          <h3>contact info</h3>
-          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-          <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-          <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
-       </div>
- 
-       <div class="box">
-          <h3>follow us</h3>
-          <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-          <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-          <a href="https://www.instagram.com/teknikunhas/?hl=en"> <i class="fab fa-instagram"></i> instagram </a>
-          <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-       </div>
- 
-    </div>
- 
-    <div class="credit"> created by <span>KELOMPOK 3</span></div>
- 
- </section>
+   <div class="box-container">
+
+      <div class="box">
+         <h3>quick links</h3>
+         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
+         <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
+         <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+      </div>
+
+      <div class="box">
+         <h3>extra links</h3>
+         <a href="faq.php"> <i class="fas fa-angle-right"></i> ask questions</a>
+         <a href="privacy.php"> <i class="fas fa-angle-right"></i> privacy policy</a>
+         <a href="term.php"> <i class="fas fa-angle-right"></i> terms of use</a>
+      </div>
+
+      <div class="box">
+         <h3>contact info</h3>
+         <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> kelompok3@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Gowa, Indonesia - 90700 </a>
+      </div>
+
+      <div class="box">
+         <h3>follow us</h3>
+         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
+         <a href="https://www.instagram.com/teknikunhas/?hl=en"> <i class="fab fa-instagram"></i> instagram </a>
+         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+      </div>
+
+   </div>
+
+   <div class="credit"> created by <span>KELOMPOK 3</span></div>
+
+</section>
+
+<!-- footer section ends -->
 
  <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
