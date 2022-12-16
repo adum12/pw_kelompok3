@@ -187,18 +187,17 @@
 
       <div class="box">
          <h3>extra links</h3>
-         <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+         <a href="faq.php"> <i class="fas fa-angle-right"></i> ask questions</a>
+         <a href="privacy.php"> <i class="fas fa-angle-right"></i> privacy policy</a>
+         <a href="term.php"> <i class="fas fa-angle-right"></i> terms of use</a>
       </div>
 
       <div class="box">
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
          <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> kelompok3@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Gowa, Indonesia - 90700 </a>
       </div>
 
       <div class="box">

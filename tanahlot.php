@@ -18,35 +18,7 @@
 </head>
 <body>
    
-<!-- header section starts  -->
-
-<section class="header">
-
-   <a href="home.php" class="logo">travel.</a>
-
-   <nav class="navbar">
-      <a href="home.php">home</a>
-      <a href="about.php">about</a>
-      <a href="package.php">package</a>
-      <a href="book.php">book</a>
-   </nav>
-
-   <div id="menu-btn" class="fas fa-bars"></div>
-
-</section>
-
-<section class="about">
-
-   <div class="image">
-      <img src="images/imgh-1.jpg" alt="">
-   </div>
-
-   <div class="content">
-      <h3>Tanah Lot</h3>
-      <p>Pura Tanah Lot adalah salah satu Pura yang sangat disucikan di Bali, Indonesia. Di sini ada dua pura yang terletak di atas batu besar. Satu terletak di atas bongkahan batu dan satunya terletak di atas tebing mirip dengan Pura Uluwatu. Pura Tanah Lot ini merupakan bagian dari pura Dang Kahyangan.</p>
-   </div>
-
-</section>
+<!-- footer section starts  -->
 
 <section class="footer">
 
@@ -84,12 +56,12 @@
       </div>
 
    </div>
- 
-    <div class="credit"> created by <span>KELOMPOK 3</span></div>
- 
- </section>
 
- <!-- footer section ends -->
+   <div class="credit"> created by <span>KELOMPOK 3</span></div>
+
+</section>
+
+<!-- footer section ends -->
  
   <!-- swiper js link  -->
 <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>

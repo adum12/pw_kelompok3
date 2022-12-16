@@ -41,36 +41,11 @@
 
 <section class="mountain">
 
-   <div class="swiper home-slider">
-
-      <div class="swiper-wrapper">
-
-         <div class="swiper-slide slide" style="background:url(images/Merapi-slide-1.jpg) no-repeat">
-            <div class="content">
-               <span>explore, discover, travel</span>
-               <h3>travel around Indonesia</h3>
-            </div>
-         </div>
-
-         <div class="swiper-slide slide" style="background:url(images/gunung-slide-3.jpg) no-repeat">
-            <div class="content">
-               <span>explore, discover, travel</span>
-               <h3>find the coolest mountain that you seek</h3>
-            </div>
-         </div>
-
-         <div class="swiper-slide slide" style="background:url(images/gunung-slide-4.jpg) no-repeat">
-            <div class="content">
-               <span>explore, discover, travel</span>
-               <h3>make your tour worthwhile</h3>
-            </div>
-         </div>
-         
+   <div class="heading" style="background:url(images/package-bromo.jpg) no-repeat">
+      <div class="content">
+         <span>explore, discover, travel</span>
+         <h3>travel around Indonesia</h3>
       </div>
-
-      <div class="swiper-button-next"></div>
-      <div class="swiper-button-prev"></div>
-
    </div>
 
 </section>
@@ -79,7 +54,7 @@
 
 <!-- mount1 about section starts  -->
 
-<section class="mountain-about">
+<section class="mount1-about">
 
    <div class="image">
       <img src="images/package-bromo.jpg" alt="">
@@ -92,51 +67,48 @@
    </div>
 
    <div class="image">
-    <img src="images/package-bromoHill-1.jpg" alt="">
- </div>
-
- <div class="content">
-    <h3>Teletubies Hill</h3>
-    <p>Disini dikatakan tinggal teletubies dengan alat ajaibnya</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
- </div>
-
- <div class="image">
-    <img src="images/package-bromoCrate-2.jpg" alt="">
- </div>
-
- <div class="content">
-    <h3>Bromo Crate</h3>
-    <p>Kawah terkenal dari gunung Bromo</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
- </div>
-
- <div class="image">
-    <img src="images/package-bromoPura.jpg" alt="">
- </div>
-
- <div class="content">
-    <h3>Pura Luhur Poten</h3>
-    <p>Terdapat pura terkenal yang berada di gunung Bromo</p>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
- </div>
-
-</section>
-
-<section class="mountain-book">
-   
-   <div class="box">
-      <div class="content">
-      <a href="book.php" class="btn">book now</a>
+      <img src="images/package-bromoHill-1.jpg" alt="">
    </div>
 
-</section> 
-
+   <div class="content">
+      <h3>Teletubies Hill</h3>
+      <p>Disini dikatakan tinggal teletubies dengan alat ajaibnya</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+   </div>
+   
+   <div class="image">
+      <img src="images/package-bromoCrate-2.jpg" alt="">
+   </div>
+  
+   <div class="content">
+      <h3>Bromo Crate</h3>
+      <p>Kawah terkenal dari gunung Bromo</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+   </div>
+  
+   <div class="image">
+      <img src="images/package-bromoPura.jpg" alt="">
+   </div>
+  
+   <div class="content">
+      <h3>Pura Luhur Poten</h3>
+      <p>Terdapat pura terkenal yang berada di gunung Bromo</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+   </div>
+   
+</section>
 
 <!-- mount1 about section ends -->
 
+<!-- mount1 offer section ends -->
 
-<!-- footer section starts  -->
+<section class="mount1-offer">
+   <div class="content">
+      <a href="book.php" class="btn">book now</a>
+   </div>
+</section>
+
+<!-- mount1 offer starts  -->
 
 <section class="footer">
 
@@ -189,8 +161,8 @@
 
 
 
-<!-- swiper js link  -->
-<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+<!-- swiper js link 
+<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script> -->
 
 <!-- custom js file link  -->
 <script src="js/script.js"></script>
