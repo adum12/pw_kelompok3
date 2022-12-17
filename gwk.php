@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Kota Tua</title>
+   <title>Garuda Wisnu Kencana</title>
 
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -35,37 +35,19 @@
 
 </section>
 
-<div class="heading" style="background:url(images/imgh-2.jpg) no-repeat">
-        <h1>Kota Tua Jakarta</h1>
+<div class="heading" style="background:url(images/imgc-1.jpg) no-repeat">
+        <h1>Garuda Wisnu Kencana</h1>
 </div>
 
 <section class="about">
 
    <div class="image">
-      <img src="images/imgh-2.jpg" alt="">
+      <img src="images/imgc-1.jpg" alt="">
    </div>
 
    <div class="content">
-      <h3>Kota Tua Jakarta</h3>
-      <p>Wisata Kota Tua Jakarta yang juga dikenal dengan sebutan Batavia Lama (Oud Batavia) ini adalah sebuah wilayah kecil di Jakarta, Indonesia. Wilayah khusus ini memiliki luas 1,3 kilometer persegi yang melintasi Jakarta Utara dan Jakarta Barat. Kawasan ini juga dijuluki dengan "Permata Asia" dan "Ratu dari Timur" pada abad ke-16 oleh pelayar Eropa. Jakarta Lama dianggap sebagai pusat perdagangan untuk benua Asia, karena lokasinya yang strategis dan memiliki sumber daya yang melimpah pada saat itu. Di kawasan ini terdapat ragam bangunan tua yang masih terawat yang masing-masing memiliki sejarah. Ini tentunya dapat memberi edukasi bagi setiap orang yang mengunjunginya. Destinasi wisata ini memberikan pengalaman yang berbeda karena lekat dengan suasana yang kental dengan gaya Eropa.</p>
-   </div>
-
-   <div class="image">
-      <img src="images/imgkt-1.jpg" alt="">
-   </div>
-
-   <div class="content">
-      <h3>Museum Fatahilah</h3>
-      <p>Museum Fatahillah merupakan ikon dari wisata Kota Tua Jakarta yang wajib kamu singgahi. Arsitektur bangunan bersejarah ini menyerupai Istana Dam di Amsterdam, Belanda. Di dalamnya, kamu bisa melihat ruangan-ruangan pengadilan dan juga ruang bawah tanah yang dulunya digunakan sebagai penjara. Meskipun sudah direnovasi berkali-kali, setiap mengunjungi Museum Fatahillah, terdapat nuansa kuno yang bersejarah di dalamnya.</p>
-   </div>
-
-   <div class="image">
-      <img src="images/imgkt-2.jpg" alt="">
-   </div>
-
-   <div class="content">
-      <h3>Jembatan Kota Intan</h3>
-      <p>Destinasi wisata di Kota Tua Jakarta selanjutnya ini merupakan jembatan tertua di Kota Tua. Desainnya yang vintage sangat cocok sebagai tempat foto bersama kerabat dengan gaya vintage. Jembatan Kota Intan ini dibangun oleh pemerintah VOC di masa lampau.</p>
+      <h3>Garuda Wisnu Kencana</h3>
+      <p>Taman Budaya Garuda Wisnu Kencana (bahasa Inggris: Garuda Wisnu Kencana Cultural Park), atau kerap disebut dengan GWK, adalah sebuah taman wisata budaya di bagian selatan pulau Bali. Taman wisata ini terletak di Desa Ungasan, Kecamatan Kuta Selatan, Kabupaten Badung, kira-kira 40 kilometer di sebelah selatan Denpasar, ibu kota provinsi Bali.Di sini berdiri megah sebuah landmark atau maskot Bali, yakni patung Garuda Wisnu Kencana yang menggambarkan sosok Dewa Wisnu menunggangi tunggangannya, Garuda, setinggi 121 meter.</p>
    </div>
 
 </section>
