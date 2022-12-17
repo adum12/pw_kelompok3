@@ -68,6 +68,66 @@
    </div>
 
 </section>
+
+<!-- reviews section starts  -->
+
+<section class="reviews">
+
+   <h1 class="heading-title"> visitor reviews </h1>
+
+   <div class="swiper reviews-slider">
+
+      <div class="swiper-wrapper">
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>Salah satu tempat wisata populer di Bali yang wajib dikunjungi. Meski berlokasi di pantai, tempat ini tidak hanya menawarkan pemandangan pantai yang sangat indah sebagai destinasi wisata. Di sini pengunjung juga dapat menikmati pemandangan cagar budaya berupa bangunan pura, tempat beribadah umat Hindu.</p>
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="images/pic-1.png" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>High Rekomendasi tempat wisata yg wajib kamu kunjungi saat berlibur ke Bali termasuk 10 Destinasi Wisata Terbaik Bali yang wajib kamu kunjungi. Sangat indah jika saat itu kita dapat melihat upacara keagamaan Hindu Bali juga yang sakral diiringi gamdlan Bali yang indah menjadi sorotan para wisatawan yg berkunjung.</p>
+            <h3>Angeline</h3>
+            <span>traveler</span>
+            <img src="images/pic-2.png" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>Pemandangan alamnya sungguh indah, pantainya yang cantik dan pura yang terletak di atas tebing batu menjadi pusat daya tarik para wisatawan lokal maupun manca negara.</p>
+            <h3>Edward</h3>
+            <span>traveler</span>
+            <img src="images/pic-3.png" alt="">
+         </div>
+
+      </div>
+
+   </div>
+
+</section>
+
+<!-- reviews section ends -->
    
 <!-- footer section starts  -->
 
