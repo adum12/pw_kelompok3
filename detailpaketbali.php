@@ -110,7 +110,7 @@
         
      </section>
      <section class="detail-packages">
-     <div class="load-more"> <a href="book_form.php" class="btn">Book Now</a> </div>
+     <div class="load-more"> <a href="book.php" class="btn">Book Now</a> </div>
      </section>
 
 <!-- footer section starts  -->
