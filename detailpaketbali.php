@@ -45,7 +45,7 @@
         <div class="content">
            <h2>Hari Pertama</h2>
            <h3>Tanah Lot</h3>
-           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+           <p>Tanah lot adalah objek wisata Bali yang terdapat pura di atas tebing batu karang berwarna hitam. Lokasinya berada di pesisir pantai dan umumnya pura tersebut menghadap ke lautan lepas. Ada sebuah pura yang dibangun tepat di atas batu karang hitam tersebut, dan memiliki nama Tanah Lot.</p>
         </div>
 
         <div class="image">
@@ -65,7 +65,7 @@
         <div class="content">
             <h2>Hari Ketiga</h2>
             <h3>Pura Uluwatu</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+            <p>Pura Uluwatu terletak di Desa Pecatu, Kecamatan Kuta, Kabupaten Badung, Bali, sekitar 30 km ke arah selatan dari kota Denpasar. Pura Uluwatu yang juga disebut Pura Luwur ini merupakan salah satu dari Pura Sad Kahyangan, pilar spiritual utama di Pulau Bali.</p>
          </div>
 
          <div class="image">
@@ -75,7 +75,7 @@
         <div class="content">
             <h2>Hari Keempat</h2>
             <h3>Pantai Pandawa</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+            <p>Pantai Pandawa adalah satu dari sekian destinasi wisata alam populer yang berada di Provinsi Bali yang menyediakan beragam aktivitas, mulai dari berenang, bermain kano, sampai pijat refleksi tradisional. Nama pantai yang terletak di Desa Kutuh, Kecamatan Kuta Selatan, Kabupaten Badung ini diambil dari lima bersaudara Mahabharata yang terdiri dari Yudistira, Bima, Arjuna, Sahadewa, dan Nakula.</p>
          </div>
 
         <div class="image">
