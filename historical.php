@@ -94,7 +94,7 @@
                <svg width="14" height="14" class="ywnoU" viewBox="0 0 32 32" version="1.1" aria-hidden="false"><desc lang="en-US">A map marker</desc><path d="M16 2.66669C9.99998 2.66669 5.33331 7.06669 5.33331 12.6667C5.33331 19.8667 12.9333 27.0667 15.3333 29.0667C15.7333 29.4267 16.2666 29.4267 16.6666 29.0667C19.0666 27.0667 26.6666 19.8667 26.6666 12.6667C26.6666 7.06669 22 2.66669 16 2.66669ZM16 18.6667C13.0666 18.6667 10.6666 16.2667 10.6666 13.3334C10.6666 10.4 13.0666 8.00002 16 8.00002C18.9333 8.00002 21.3333 10.4 21.3333 13.3334C21.3333 16.2667 18.9333 18.6667 16 18.6667Z"></path></svg>
                <span class="alamat">Beraban, Kediri, Tabanan, Bali, Indonesia</span>
            </span>
-           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+           <p>Sebuah pura yang berada di tepi pantai yang indah di bali.</p>
            <a href="tanahlot.php" class="btn">read more</a>
         </div>
      </div>
@@ -121,7 +121,7 @@
 
     <div class="box">
        <div class="image">
-          <img src="images/imgh-3.jpg" alt="">
+          <img src="images/imgcb-1.jpg" alt="">
        </div>
        <div class="content">
           <h3>Candi Borobudur</h3>
@@ -130,7 +130,7 @@
             <span class="alamat">Kw. Candi Borobudur, Borobudur, Kec. Borobudur, Kabupaten Magelang, Jawa Tengah, Indonesia</span>
           </span>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
-          <a href="book.php" class="btn">read more</a>
+          <a href="candiborobudur.php" class="btn">read more</a>
        </div>
     </div>
     
@@ -146,7 +146,7 @@
           </span>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
           <p></p>
-          <a href="book.php" class="btn">read more</a>
+          <a href="gwk.php" class="btn">read more</a>
        </div>
     </div>
 

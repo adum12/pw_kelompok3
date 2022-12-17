@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Kota Tua</title>
+   <title>Candi Borobudur</title>
 
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -35,37 +35,19 @@
 
 </section>
 
-<div class="heading" style="background:url(images/imgh-2.jpg) no-repeat">
-        <h1>Kota Tua Jakarta</h1>
+<div class="heading" style="background:url(images/imgcb-1.jpg) no-repeat">
+        <h1>Candi Borobudur</h1>
 </div>
 
 <section class="about">
 
    <div class="image">
-      <img src="images/imgh-2.jpg" alt="">
+      <img src="images/imgcb-1.jpg" alt="">
    </div>
 
    <div class="content">
-      <h3>Kota Tua Jakarta</h3>
-      <p>Wisata Kota Tua Jakarta yang juga dikenal dengan sebutan Batavia Lama (Oud Batavia) ini adalah sebuah wilayah kecil di Jakarta, Indonesia. Wilayah khusus ini memiliki luas 1,3 kilometer persegi yang melintasi Jakarta Utara dan Jakarta Barat. Kawasan ini juga dijuluki dengan "Permata Asia" dan "Ratu dari Timur" pada abad ke-16 oleh pelayar Eropa. Jakarta Lama dianggap sebagai pusat perdagangan untuk benua Asia, karena lokasinya yang strategis dan memiliki sumber daya yang melimpah pada saat itu. Di kawasan ini terdapat ragam bangunan tua yang masih terawat yang masing-masing memiliki sejarah. Ini tentunya dapat memberi edukasi bagi setiap orang yang mengunjunginya. Destinasi wisata ini memberikan pengalaman yang berbeda karena lekat dengan suasana yang kental dengan gaya Eropa.</p>
-   </div>
-
-   <div class="image">
-      <img src="images/imgkt-1.jpg" alt="">
-   </div>
-
-   <div class="content">
-      <h3>Museum Fatahilah</h3>
-      <p>Museum Fatahillah merupakan ikon dari wisata Kota Tua Jakarta yang wajib kamu singgahi. Arsitektur bangunan bersejarah ini menyerupai Istana Dam di Amsterdam, Belanda. Di dalamnya, kamu bisa melihat ruangan-ruangan pengadilan dan juga ruang bawah tanah yang dulunya digunakan sebagai penjara. Meskipun sudah direnovasi berkali-kali, setiap mengunjungi Museum Fatahillah, terdapat nuansa kuno yang bersejarah di dalamnya.</p>
-   </div>
-
-   <div class="image">
-      <img src="images/imgkt-2.jpg" alt="">
-   </div>
-
-   <div class="content">
-      <h3>Jembatan Kota Intan</h3>
-      <p>Destinasi wisata di Kota Tua Jakarta selanjutnya ini merupakan jembatan tertua di Kota Tua. Desainnya yang vintage sangat cocok sebagai tempat foto bersama kerabat dengan gaya vintage. Jembatan Kota Intan ini dibangun oleh pemerintah VOC di masa lampau.</p>
+      <h3>Candi Borobudur</h3>
+      <p>Candi Borobudur adalah sebuah candi Buddha yang terletak di Borobudur, Magelang, Jawa Tengah, Indonesia. Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta. Candi dengan banyak stupa ini didirikan oleh para penganut agama Buddha Mahayana sekitar tahun 800-an Masehi pada masa pemerintahan wangsa Syailendra. Borobudur adalah candi atau kuil Buddha terbesar di dunia, sekaligus salah satu monumen Buddha terbesar di dunia.</p>
    </div>
 
 </section>

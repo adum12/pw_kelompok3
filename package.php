@@ -55,7 +55,7 @@
          </div>
          <div class="content">
             <h3>Paket Wisata Bali</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <p>Paket Wisata ke Bali selama 1 Minggu dimana tiap hari akan mengunjungi 1 tempat wisata.</p>
             <a href="detailpaketbali.php" class="btn">See Details</a>
          </div>
       </div>

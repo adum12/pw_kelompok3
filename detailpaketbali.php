@@ -54,8 +54,8 @@
 
         <div class="content">
             <h2>Hari Kedua</h2>
-            <h3>Pura Indah</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+            <h3>Pura Lingga Petak</h3>
+            <p>Pura Lingga Petak merupakan salah satu dari lima pura yang terdapat di Pura Ulun Danu. Pura Lingga Petak inilah yang sesungguhnya terpapar jelas dalam pecahan uang Rp 50.000,-. Terdiri dari tiga tingkat yang di dalamnya terdapat sebuah sumur keramat yang menyimpan Tirta Ulun Danu. Tidak hanya itu, dalam Pura ini juga terdapat lingga yang berwarna putih. Diapit batu hitam dan merah. Pura ini diyakini sebagai sumber utama air dan kesuburan Danau Beratan.</p>
          </div>
             
          <div class="image">
@@ -85,7 +85,7 @@
         <div class="content">
             <h2>Hari Kelima</h2>
             <h3>Gunung Batur</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+            <p>Gunung Batur adalah salah satu dari sekian destinasi wisata alam yang berada di Bali, salah satu keindahan yang dapat dilihat dari gunung batur adalah untuk melihat terbitnya matahari di pagi hari.</p>
          </div>
 
         <div class="image">
@@ -95,7 +95,7 @@
         <div class="content">
             <h2>Hari Keenam</h2>
             <h3>Garuda Wisnu Kencana</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+            <p>Taman Budaya Garuda Wisnu Kencana (bahasa Inggris: Garuda Wisnu Kencana Cultural Park), atau kerap disebut dengan GWK, adalah sebuah taman wisata budaya di bagian selatan pulau Bali. Taman wisata ini terletak di Desa Ungasan, Kecamatan Kuta Selatan, Kabupaten Badung, kira-kira 40 kilometer di sebelah selatan Denpasar, ibu kota provinsi Bali.Di sini berdiri megah sebuah landmark atau maskot Bali, yakni patung Garuda Wisnu Kencana yang menggambarkan sosok Dewa Wisnu menunggangi tunggangannya, Garuda, setinggi 121 meter.</p>
          </div>
 
          <div class="image">
@@ -105,7 +105,7 @@
         <div class="content">
             <h2>Hari Ketujuh</h2>
             <h3>Pantai Kuta</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+            <p>Pantai Kuta, Lombok adalah tempat wisata di Pulau Lombok, Provinsi Nusa Tenggara Barat, Indonesia. Pantai dengan pasir berwarna putih seperti buliran merica ini terletak di Kawasan Ekonomi Khusus Mandalika di Desa Kuta. </p>
          </div>
         
      </section>

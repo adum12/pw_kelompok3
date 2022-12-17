@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>historical & culture</title>
+   <title>Tanah Lot</title>
 
    <!-- swiper css link  -->
    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -17,6 +17,57 @@
 
 </head>
 <body>
+
+<section class="header">
+
+   <a href="home.php" class="logo">travel.</a>
+
+   <nav class="navbar">
+      <a href="home.php">home</a>
+      <a href="about.php">about</a>
+      <a href="package.php">package</a>
+      <a href="book.php">book</a>
+   </nav>
+
+   <div id="menu-btn" class="fas fa-bars"></div>
+
+</section>
+
+<div class="heading" style="background:url(images/imgh-1.jpg) no-repeat">
+        <h1>Tanah Lot</h1>
+</div>
+
+<section class="nusapenida">
+
+   <div class="image">
+      <img src="images/imgh-1.jpg" alt="">
+   </div>
+
+   <div class="content">
+      <h3>About Tanah Lot</h3>
+      <p>Tanah lot adalah objek wisata Bali yang terdapat pura di atas tebing batu karang berwarna hitam. Lokasinya berada di pesisir pantai dan umumnya pura tersebut menghadap ke lautan lepas. Ada sebuah pura yang dibangun tepat di atas batu karang hitam tersebut, dan memiliki nama Tanah Lot.</p>
+   </div>
+
+   <div class="image">
+      <img src="images/imgtl-1.jpg" alt="">
+   </div>
+
+   <div class="content">
+      <h3>Goa Ular Suci di Tanah Lot</h3>
+      <p>Mitos soal pengabul permohonan sering ditemui di tempat wisata. Salah satunya di Bali, tepatnya di Goa Ular Suci. Goa Ular Suci berada di Pura Tanah Lot Bali. Hanya bisa dikunjungi ketika surut, goa ini berada di bawah tebing, berhadapan dengan Pura Tanah Lot yang berada di tengah laut. Saat air sudah mulai surut, rantai pembatas untuk menuju ke laut pun dibuka. Goa hanya akan terlihat jika sudah setengah jalan menuju Pura Tanah Lot. Benar-benar di sisi tebing, akses ke goa ini cukup mengadu adrenalin. Karena harus jalan di batu-baru karang yang tajam dan sedikit licin.</p>
+   </div>
+
+   <div class="image">
+      <img src="images/imgtl-2.jpg" alt="">
+   </div>
+
+   <div class="content">
+      <h3>Goa Air Suci di Tanah Lot</h3>
+      <p>Berdasarkan mitos yang beredar di masyarakat Bali, air yang disucikan itu memiliki banyak manfaat. Diantaranya, diyakini bahwa air suci ini bisa membuat siapa pun yang membasuh mukanya dengan air tersebut akan jadi awet muda. Selain itu, air suci ini juga diyakini bisa menyembuhkan berbagai macam penyakit bila diminum.</p>
+      <p>Bukan hanya itu saja, air suci ini juga diyakini bisa menghilangkan energi negatif di dalam tubuh. Sementara bagi yang ingin mempunyai anak dengan meminum air suci ini, diyakini bakal dikaruniai anak. Oleh karena itu pula air suci ini sering disebut air kesuburan. Bahkan ada juga yang meyakini jika air suci ini bisa mendatangkan rejeki yang melimpah.</p>
+   </div>
+
+</section>
    
 <!-- footer section starts  -->
 
