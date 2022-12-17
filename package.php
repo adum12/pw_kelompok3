@@ -62,12 +62,12 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/package-bromo.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Paket Wisata Papua</h3>
+            <h3>Paket Wisata Bromo</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">See Details</a>
+            <a href="detailpaketbromo.php" class="btn">See Details</a>
          </div>
       </div>
 
@@ -76,9 +76,9 @@
             <img src="images/img-2.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Paket Wisata 3</h3>
+            <h3>Paket Wisata 1</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">See Details</a>
+            <a href="#" class="btn">See Details</a>
          </div>
       </div>
 
@@ -87,9 +87,9 @@
             <img src="images/img-4.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Paket Misteri</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">See Details</a>
+            <a href="#" class="btn">See Details</a>
          </div>
       </div>
 
@@ -98,9 +98,9 @@
             <img src="images/img-5.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Paket Wisata 3</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">See Details</a>
+            <a href="#" class="btn">See Details</a>
          </div>
       </div>
 
@@ -109,75 +109,75 @@
             <img src="images/img-6.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Paket Wisata Papua</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">See Details</a>
+            <a href="#" class="btn">See Details</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-7.jpg" alt="">
+            <img src="images/rajaampat.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Paket Raja Ampat</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">See Details</a>
+            <a href="#" class="btn">See Details</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-8.jpg" alt="">
+            <img src="images/pinkbeach.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Paket Pantai</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">book now</a>
+            <a href="#" class="btn">book now</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-9.jpg" alt="">
+            <img src="images/imgh-2.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Packet culture</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">book now</a>
+            <a href="#" class="btn">book now</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-10.jpg" alt="">
+            <img src="images/imgh-3.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Paket Candi</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">book now</a>
+            <a href="#" class="btn">book now</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-11.jpg" alt="">
+            <img src="images/imgh-3.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Paket Jawa</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">book now</a>
+            <a href="#" class="btn">book now</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="images/img-12.jpg" alt="">
+            <img src="images/nusapenida2.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Paket Hemat</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="detailpaketbali.php" class="btn">book now</a>
+            <a href="#" class="btn">book now</a>
          </div>
       </div>
 
