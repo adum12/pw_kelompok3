@@ -37,7 +37,7 @@
 
 <!-- header section ends -->
 
-<div class="heading" style="background:url(images/header-bg-1.png) no-repeat">
+<div class="heading" style="background:url(images/atuh_beach.jpg) no-repeat">
    <h1>about us</h1>
 </div>
 
@@ -46,7 +46,7 @@
 <section class="about">
 
    <div class="image">
-      <img src="images/about-img.jpg" alt="">
+      <img src="images/padar2.jpg" alt="">
    </div>
 
    <div class="content">
@@ -91,7 +91,7 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
+            <p>mengutamakan layanan terbaik, dan sangat berpengalaman di bidangnya, sangat recomend untuk wisatawan dengan pasangan, kerabat atau dengan keluarga sekalipun</p>
             <h3>john deo</h3>
             <span>traveler</span>
             <img src="images/pic-1.png" alt="">
@@ -104,8 +104,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio similique totam aut laborum ullam sequi! In!</p>
-            <h3>john deo</h3>
+            <p>sejak pertama menggunakan website ini memang sangat cocok dikarenakan pilihan dan juga rating nya sesuai ... beberapa kali saya punya masalah ketika menggunakan website saat pemesanan akan tetapi travel dengan fast respon dan tanggap menanggapi keluhan saya </p>
+            <h3>angeline</h3>
             <span>traveler</span>
             <img src="images/pic-2.png" alt="">
          </div>
@@ -116,8 +116,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus enim deserunt, ab at ea iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!</p>
-            <h3>john deo</h3>
+            <p>Makin cinta sama website ini, sangat membantu dalam hal apapun, tempat wisata yang disajikan juga sangat beragam. Kereenn</p>
+            <h3>edward</h3>
             <span>traveler</span>
             <img src="images/pic-3.png" alt="">
          </div>
