@@ -45,15 +45,15 @@
 
       <div class="swiper-wrapper">
 
-         <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images/about-gunungPrau.jpg) no-repeat">
             <div class="content">
                <span>explore, discover, travel</span>
-               <h3>travel arround the world</h3>
+               <h3>explore beautiful destinations in Indonesia</h3>
                <a href="package.php" class="btn">discover more</a>
             </div>
          </div>
 
-         <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images/pinkbeach.jpg) no-repeat">
             <div class="content">
                <span>explore, discover, travel</span>
                <h3>discover the new places</h3>
@@ -61,7 +61,7 @@
             </div>
          </div>
 
-         <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images/imgcb-1.jpg) no-repeat">
             <div class="content">
                <span>explore, discover, travel</span>
                <h3>make your tour worthwhile</h3>
@@ -97,14 +97,14 @@
 
       <div class="box">
          <a href="beach.php">
-            <img src="images/icon-2.png" alt="">
+            <img src="images/icon-7.png" alt="">
             <h3>beach</h3>
          </a>
       </div>
 
       <div class="box">
          <a href="historical.php">
-            <img src="images/icon-3.png" alt="">
+            <img src="images/icon8.png" alt="">
             <h3>historical & culture</h3>
          </a>
       </div>
@@ -120,12 +120,12 @@
 <section class="home-about">
 
    <div class="image">
-      <img src="images/about-img.jpg" alt="">
+      <img src="images/atuh_beach.jpg" alt="">
    </div>
 
    <div class="content">
       <h3>about us</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita et, recusandae nobis fugit modi quibusdam ea assumenda, nulla quisquam repellat rem aliquid sequi maxime sapiente autem ipsum? Nobis, provident voluptate?</p>
+      <p>Travel Ini Adalah Layanan Yang Merekomendasikan Destinasi Wisata Di Berbagai Provinsi Di Indonesia. Dengan Layanan Travel Ini, Anda Dapat Mengunjungi Tempat Wisata Yang Ada Di Indonesia, Berupa Pantai, Laut, Pegunungan, Tempat Bersejarah, Dll.</p>
       <a href="about.php" class="btn">read more</a>
    </div>
 
@@ -137,7 +137,7 @@
 
 <section class="home-packages">
 
-   <h1 class="heading-title"> our packages </h1>
+   <h1 class="heading-title">favorite packages </h1>
 
    <div class="box-container">
 
@@ -154,10 +154,10 @@
 
       <div class="box">
          <div class="image">
-            <img src="images/img-2.jpg" alt="">
+            <img src="images/nusapenida.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Paket wisata Nusa Penida</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
             <a href="book.php" class="btn">See Details</a>
          </div>
@@ -165,10 +165,10 @@
       
       <div class="box">
          <div class="image">
-            <img src="images/img-3.jpg" alt="">
+            <img src="images/package-bromo.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
+            <h3>Paket wisata bromo</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
             <a href="book.php" class="btn">See Details</a>
          </div>

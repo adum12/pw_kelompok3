@@ -110,6 +110,52 @@
 
 <!-- mount1 offer starts  -->
 
+<!-- reviews section starts  -->
+
+<section class="reviews">
+
+   <h1 class="heading-title"> visitor reviews </h1>
+
+   <div class="swiper reviews-slider">
+
+      <div class="swiper-wrapper">
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>Gunung Bromo adalah Salah satu gunung tercantik di Indonesia. Berpetualang menggunakan Jeep lebih seru. Gunung Bromo adalah lautan pasir yang Indah</p>
+            <h3>john deo</h3>
+            <span>traveler</span>
+            <img src="images/pic-1.png" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>Keindahan alam yang luar biasa.bisa ikut paket tour ke lokasi ini supaya lebih mudah menikmati keindahan alamnya karna perlu naik boat lalu naik mobil lalu jalan yg lumayan terjalan untuk sampah ke lokasi . panas sekali di sana wkwkwk.</p>
+            <h3>Angeline</h3>
+            <span>traveler</span>
+            <img src="images/pic-2.png" alt="">
+         </div>
+
+      </div>
+
+   </div>
+
+</section>
+
+<!-- reviews section ends -->
+
 <section class="footer">
 
    <div class="box-container">
